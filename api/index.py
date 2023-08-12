@@ -3,7 +3,6 @@ import os
 import requests
 import json
 from scipy import spatial
-from flask_cors import CORS
 import random
 
 url = "https://gptlesson1.oss-cn-beijing.aliyuncs.com/meta.json"
